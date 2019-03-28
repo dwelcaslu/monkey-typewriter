@@ -1,6 +1,7 @@
-# Project Title
+# Monkey Typewriter
 
-One Paragraph of project description goes here
+This little project is based on the Infinite monkey theorem:
+https://en.wikipedia.org/wiki/Infinite_monkey_theorem
 
 ## Getting Started
 
